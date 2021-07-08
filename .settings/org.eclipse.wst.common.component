@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                        
+    
+    
+    
+    
+    <wb-module deploy-name="001_UserSpace">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java-users"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java-users-admin"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp-users"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp-users-admin"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java-users-space"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java-applications"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp-applications-space"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp-users-space"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/app/web-applications-space"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/app/web-users-space"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java-commons"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/branch/webapp-branch"/>
+                                                
+        
+        
+        
+        
+        <property name="java-output-path" value="/001_UserSpace/build/classes"/>
+        <property name="context-root" value="004_YatospaceCMS"/>
+                                            
+    
+    
+    
+    
+    </wb-module>
+                    
+
+
+
+
+</project-modules>
